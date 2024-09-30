@@ -1,0 +1,13 @@
+*{
+    font-family: "Fredoka", sans-serif;
+}
+.nav-item{
+    font-size:20px;
+    font-weight: 550;
+    margin-left: 10%;
+}
+
+#footer a:hover{
+    background-color: orange;
+    border-radius: 50%;
+}
